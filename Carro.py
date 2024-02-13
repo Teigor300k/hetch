@@ -12,5 +12,5 @@ class Carro(object):
         return self.matricula
 
 
-    def km_precorrido(self):
+    def km_percorrido(self):
         pass
